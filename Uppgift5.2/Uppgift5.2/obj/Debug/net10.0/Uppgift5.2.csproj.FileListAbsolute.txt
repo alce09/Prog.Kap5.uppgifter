@@ -1,0 +1,17 @@
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.exe
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.deps.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.runtimeconfig.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.runtimeconfig.dev.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\bin\Debug\net10.0\Uppgift5.2.pdb
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.AssemblyInfoInputs.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.AssemblyInfo.cs
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.csproj.CoreCompileInputs.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.sourcelink.json
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\refint\Uppgift5.2.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.pdb
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.genruntimeconfig.cache
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\ref\Uppgift5.2.dll
+C:\Users\alce09001\Documents\Programmering\Prog.Kap5.uppgifter\Uppgift5.2\Uppgift5.2\obj\Debug\net10.0\Uppgift5.2.csproj.Up2Date
